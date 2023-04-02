@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(220, 218, 218);
+}
+.iamge{
+    /* border: 5px solid rgb(190, 168, 168); */
+    background-color: white;
+    margin: auto;
+    width: 98%;
+    height: 800px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+h1,h3{
+    text-align: center;
+}
+.image2{
+    text-align: center;
+}
+p{
+    margin-top: 50px;
+}
+.about{
+    /* border: 5px solid red; */
+    margin: auto;
+    width: 30%;
+}
+footer{
+    margin-top: 40px;
+}
